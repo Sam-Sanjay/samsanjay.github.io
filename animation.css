@@ -1,0 +1,21 @@
+@keyframes colorChange {
+    20% {
+        color: #DC143C;
+    }
+
+    40% {
+        color: #7FFF00;
+    }
+
+    60% {
+        color: #00FFFF;
+    }
+
+    80% {
+        color: #FF00FF;
+    }
+
+    100% {
+        color: #4caf50;
+    }
+}
